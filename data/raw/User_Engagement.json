@@ -1,0 +1,4867 @@
+{
+  "metadata": {
+    "collection_date": "2024-12-11",
+    "version": "1.0",
+    "total_users": 500
+  },
+  "user_engagement": [
+    {
+      "user_id": "USER_2001",
+      "join_date": "2023-06-25",
+      "engagement_history": [
+        {
+          "post_id": "POST_1107",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-23 21:00:00",
+          "time_spent_seconds": 190,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1075",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 07:00:00",
+          "time_spent_seconds": 129,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1030",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-07 10:00:00",
+          "time_spent_seconds": 45,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1104",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-08 00:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1006",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-15 22:00:00",
+          "time_spent_seconds": 91,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1084",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-02 10:00:00",
+          "time_spent_seconds": 18
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2002",
+      "join_date": "2023-05-30",
+      "engagement_history": [
+        {
+          "post_id": "POST_1090",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-04 13:00:00",
+          "time_spent_seconds": 7
+        },
+        {
+          "post_id": "POST_1038",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-07 18:00:00",
+          "time_spent_seconds": 43,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1061",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 06:00:00",
+          "time_spent_seconds": 293,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1027",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 20:00:00",
+          "time_spent_seconds": 294,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2003",
+      "join_date": "2023-10-09",
+      "engagement_history": [
+        {
+          "post_id": "POST_1083",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-31 23:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1081",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-19 20:00:00",
+          "time_spent_seconds": 16
+        },
+        {
+          "post_id": "POST_1039",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-05 03:00:00",
+          "time_spent_seconds": 34,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1113",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-23 05:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1018",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-19 16:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1121",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-31 06:00:00",
+          "time_spent_seconds": 288,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-25 05:00:00",
+          "time_spent_seconds": 27
+        },
+        {
+          "post_id": "POST_1078",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-03 21:00:00",
+          "time_spent_seconds": 248,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2004",
+      "join_date": "2023-03-28",
+      "engagement_history": [
+        {
+          "post_id": "POST_1016",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-18 03:00:00",
+          "time_spent_seconds": 131,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1116",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-09 05:00:00",
+          "time_spent_seconds": 273,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1027",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-01 00:00:00",
+          "time_spent_seconds": 195,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1088",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-15 03:00:00",
+          "time_spent_seconds": 178,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2005",
+      "join_date": "2023-10-18",
+      "engagement_history": [
+        {
+          "post_id": "POST_1014",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-20 23:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1086",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-20 22:00:00",
+          "time_spent_seconds": 46,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1017",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-26 23:00:00",
+          "time_spent_seconds": 163,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1085",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-08 09:00:00",
+          "time_spent_seconds": 48,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1025",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-05 18:00:00",
+          "time_spent_seconds": 173,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1143",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-07 18:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1099",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-06 09:00:00",
+          "time_spent_seconds": 190,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2006",
+      "join_date": "2023-07-16",
+      "engagement_history": [
+        {
+          "post_id": "POST_1080",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-17 09:00:00",
+          "time_spent_seconds": 84,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1047",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-08 07:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1055",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-22 19:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1088",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-15 15:00:00",
+          "time_spent_seconds": 197,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1125",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-26 12:00:00",
+          "time_spent_seconds": 89,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2007",
+      "join_date": "2024-04-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1012",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-26 11:00:00",
+          "time_spent_seconds": 127,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1106",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-28 13:00:00",
+          "time_spent_seconds": 193,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1094",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 06:00:00",
+          "time_spent_seconds": 149,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1061",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-31 11:00:00",
+          "time_spent_seconds": 107,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-24 17:00:00",
+          "time_spent_seconds": 31,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1073",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-20 00:00:00",
+          "time_spent_seconds": 288,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2008",
+      "join_date": "2023-05-31",
+      "engagement_history": [
+        {
+          "post_id": "POST_1133",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-30 06:00:00",
+          "time_spent_seconds": 118,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1032",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 02:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1073",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-20 02:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1022",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-05 16:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1042",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-22 00:00:00",
+          "time_spent_seconds": 9
+        },
+        {
+          "post_id": "POST_1070",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-24 21:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1116",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-08 10:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1132",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-19 19:00:00",
+          "time_spent_seconds": 28
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2009",
+      "join_date": "2023-09-20",
+      "engagement_history": [
+        {
+          "post_id": "POST_1036",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-29 10:00:00",
+          "time_spent_seconds": 285,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1121",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-30 08:00:00",
+          "time_spent_seconds": 152,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-18 08:00:00",
+          "time_spent_seconds": 3
+        },
+        {
+          "post_id": "POST_1002",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-04 03:00:00",
+          "time_spent_seconds": 239,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1021",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-16 08:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1005",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-05 17:00:00",
+          "time_spent_seconds": 18
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2010",
+      "join_date": "2024-03-02",
+      "engagement_history": [
+        {
+          "post_id": "POST_1062",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-19 19:00:00",
+          "time_spent_seconds": 48,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1037",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-08 05:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1075",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-25 01:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1110",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-23 03:00:00",
+          "time_spent_seconds": 203,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1001",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-18 00:00:00",
+          "time_spent_seconds": 2
+        },
+        {
+          "post_id": "POST_1091",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-14 05:00:00",
+          "time_spent_seconds": 13
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-04 23:00:00",
+          "time_spent_seconds": 58,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2011",
+      "join_date": "2024-05-05",
+      "engagement_history": [
+        {
+          "post_id": "POST_1086",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-20 09:00:00",
+          "time_spent_seconds": 37,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1035",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-23 03:00:00",
+          "time_spent_seconds": 155,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1012",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-25 13:00:00",
+          "time_spent_seconds": 30
+        },
+        {
+          "post_id": "POST_1091",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-14 21:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1140",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-21 11:00:00",
+          "time_spent_seconds": 247,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1087",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-18 18:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-11 23:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1119",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-29 18:00:00",
+          "time_spent_seconds": 12
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2012",
+      "join_date": "2024-01-31",
+      "engagement_history": [
+        {
+          "post_id": "POST_1032",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 12:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1095",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-20 00:00:00",
+          "time_spent_seconds": 270,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1112",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-31 23:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1103",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-05 04:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1113",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-24 11:00:00",
+          "time_spent_seconds": 155,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2013",
+      "join_date": "2023-11-10",
+      "engagement_history": [
+        {
+          "post_id": "POST_1021",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-16 15:00:00",
+          "time_spent_seconds": 223,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1084",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 23:00:00",
+          "time_spent_seconds": 233,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1076",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-06 16:00:00",
+          "time_spent_seconds": 15
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2014",
+      "join_date": "2023-06-13",
+      "engagement_history": [
+        {
+          "post_id": "POST_1015",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-02 10:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1020",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-29 03:00:00",
+          "time_spent_seconds": 69,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1104",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-07 18:00:00",
+          "time_spent_seconds": 192,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1094",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 13:00:00",
+          "time_spent_seconds": 21,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1132",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-20 20:00:00",
+          "time_spent_seconds": 235,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2015",
+      "join_date": "2024-01-11",
+      "engagement_history": [
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 21:00:00",
+          "time_spent_seconds": 147,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1020",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-29 02:00:00",
+          "time_spent_seconds": 25
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-04 08:00:00",
+          "time_spent_seconds": 270,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1036",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-29 17:00:00",
+          "time_spent_seconds": 26
+        },
+        {
+          "post_id": "POST_1136",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-29 22:00:00",
+          "time_spent_seconds": 16
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2016",
+      "join_date": "2023-05-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1074",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-27 05:00:00",
+          "time_spent_seconds": 7
+        },
+        {
+          "post_id": "POST_1126",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-29 06:00:00",
+          "time_spent_seconds": 168,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1052",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-03 22:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1032",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 20:00:00",
+          "time_spent_seconds": 29
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2017",
+      "join_date": "2023-05-05",
+      "engagement_history": [
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-11 09:00:00",
+          "time_spent_seconds": 126,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1093",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-04 00:00:00",
+          "time_spent_seconds": 19
+        },
+        {
+          "post_id": "POST_1131",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-03 06:00:00",
+          "time_spent_seconds": 27
+        },
+        {
+          "post_id": "POST_1058",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-11 16:00:00",
+          "time_spent_seconds": 49,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2018",
+      "join_date": "2024-08-11",
+      "engagement_history": [
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-22 09:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1123",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-12 05:00:00",
+          "time_spent_seconds": 16
+        },
+        {
+          "post_id": "POST_1135",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-03 09:00:00",
+          "time_spent_seconds": 30
+        },
+        {
+          "post_id": "POST_1106",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-28 09:00:00",
+          "time_spent_seconds": 226,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1105",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-01 08:00:00",
+          "time_spent_seconds": 18
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2019",
+      "join_date": "2023-08-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1078",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-04 10:00:00",
+          "time_spent_seconds": 30
+        },
+        {
+          "post_id": "POST_1043",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-11 06:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1042",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-22 17:00:00",
+          "time_spent_seconds": 287,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1083",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-01 17:00:00",
+          "time_spent_seconds": 160,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2020",
+      "join_date": "2023-02-12",
+      "engagement_history": [
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-13 06:00:00",
+          "time_spent_seconds": 3
+        },
+        {
+          "post_id": "POST_1129",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-20 18:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1044",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-21 16:00:00",
+          "time_spent_seconds": 20,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1149",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-26 18:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1040",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-23 16:00:00",
+          "time_spent_seconds": 212,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1087",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-17 05:00:00",
+          "time_spent_seconds": 35,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1145",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-12 03:00:00",
+          "time_spent_seconds": 252,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2021",
+      "join_date": "2023-12-20",
+      "engagement_history": [
+        {
+          "post_id": "POST_1088",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-14 09:00:00",
+          "time_spent_seconds": 194,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1037",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-08 21:00:00",
+          "time_spent_seconds": 9
+        },
+        {
+          "post_id": "POST_1081",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-19 08:00:00",
+          "time_spent_seconds": 141,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1082",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-05 10:00:00",
+          "time_spent_seconds": 54,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2022",
+      "join_date": "2024-08-14",
+      "engagement_history": [
+        {
+          "post_id": "POST_1099",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-05 13:00:00",
+          "time_spent_seconds": 26
+        },
+        {
+          "post_id": "POST_1108",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-26 08:00:00",
+          "time_spent_seconds": 268,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-12 20:00:00",
+          "time_spent_seconds": 259,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1041",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-15 02:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1084",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 16:00:00",
+          "time_spent_seconds": 115,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2023",
+      "join_date": "2024-07-03",
+      "engagement_history": [
+        {
+          "post_id": "POST_1013",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-08 07:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1073",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-19 17:00:00",
+          "time_spent_seconds": 192,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1127",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-18 03:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1121",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-31 13:00:00",
+          "time_spent_seconds": 19
+        },
+        {
+          "post_id": "POST_1074",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-27 00:00:00",
+          "time_spent_seconds": 288,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2024",
+      "join_date": "2024-07-17",
+      "engagement_history": [
+        {
+          "post_id": "POST_1099",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-06 16:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1130",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-21 09:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1116",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-09 00:00:00",
+          "time_spent_seconds": 178,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2025",
+      "join_date": "2023-02-11",
+      "engagement_history": [
+        {
+          "post_id": "POST_1037",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-08 03:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1051",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-30 07:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1131",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-02 10:00:00",
+          "time_spent_seconds": 268,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1103",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-05 16:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1129",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-20 02:00:00",
+          "time_spent_seconds": 158,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2026",
+      "join_date": "2023-11-03",
+      "engagement_history": [
+        {
+          "post_id": "POST_1130",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-21 02:00:00",
+          "time_spent_seconds": 193,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1131",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-03 03:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1137",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-22 23:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1126",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-30 15:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1145",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-12 18:00:00",
+          "time_spent_seconds": 27
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2027",
+      "join_date": "2024-01-25",
+      "engagement_history": [
+        {
+          "post_id": "POST_1148",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-15 20:00:00",
+          "time_spent_seconds": 129,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1059",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-06 13:00:00",
+          "time_spent_seconds": 2
+        },
+        {
+          "post_id": "POST_1014",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-19 21:00:00",
+          "time_spent_seconds": 219,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1150",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-29 21:00:00",
+          "time_spent_seconds": 109,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1123",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-13 00:00:00",
+          "time_spent_seconds": 36,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1044",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-21 10:00:00",
+          "time_spent_seconds": 111,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1135",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-04 19:00:00",
+          "time_spent_seconds": 17
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2028",
+      "join_date": "2023-12-29",
+      "engagement_history": [
+        {
+          "post_id": "POST_1097",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-14 16:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1081",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-19 16:00:00",
+          "time_spent_seconds": 147,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-11 15:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1118",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-14 22:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1137",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-21 21:00:00",
+          "time_spent_seconds": 250,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1088",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-14 19:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1140",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-21 02:00:00",
+          "time_spent_seconds": 181,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2029",
+      "join_date": "2023-09-20",
+      "engagement_history": [
+        {
+          "post_id": "POST_1011",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-27 14:00:00",
+          "time_spent_seconds": 108,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1074",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-27 12:00:00",
+          "time_spent_seconds": 24
+        },
+        {
+          "post_id": "POST_1021",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-15 09:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1089",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-29 16:00:00",
+          "time_spent_seconds": 30,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-25 17:00:00",
+          "time_spent_seconds": 124,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2030",
+      "join_date": "2023-04-13",
+      "engagement_history": [
+        {
+          "post_id": "POST_1106",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-28 01:00:00",
+          "time_spent_seconds": 286,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1085",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-09 18:00:00",
+          "time_spent_seconds": 248,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1121",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-30 19:00:00",
+          "time_spent_seconds": 169,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2031",
+      "join_date": "2023-06-30",
+      "engagement_history": [
+        {
+          "post_id": "POST_1016",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-19 02:00:00",
+          "time_spent_seconds": 27
+        },
+        {
+          "post_id": "POST_1023",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-21 12:00:00",
+          "time_spent_seconds": 153,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-03 20:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1060",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-22 22:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1137",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-22 18:00:00",
+          "time_spent_seconds": 283,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1010",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-26 09:00:00",
+          "time_spent_seconds": 263,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-11 13:00:00",
+          "time_spent_seconds": 27
+        },
+        {
+          "post_id": "POST_1107",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-22 22:00:00",
+          "time_spent_seconds": 7
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2032",
+      "join_date": "2023-06-29",
+      "engagement_history": [
+        {
+          "post_id": "POST_1118",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-14 04:00:00",
+          "time_spent_seconds": 268,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1066",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-19 02:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1048",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-05 12:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1004",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-10 21:00:00",
+          "time_spent_seconds": 132,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1087",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-18 01:00:00",
+          "time_spent_seconds": 9
+        },
+        {
+          "post_id": "POST_1076",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-05 18:00:00",
+          "time_spent_seconds": 173,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1146",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-10-27 17:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1050",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-21 21:00:00",
+          "time_spent_seconds": 9
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2033",
+      "join_date": "2023-06-13",
+      "engagement_history": [
+        {
+          "post_id": "POST_1031",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-08 20:00:00",
+          "time_spent_seconds": 262,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1120",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-19 21:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1079",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-16 00:00:00",
+          "time_spent_seconds": 21
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2034",
+      "join_date": "2024-04-10",
+      "engagement_history": [
+        {
+          "post_id": "POST_1057",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-28 03:00:00",
+          "time_spent_seconds": 24
+        },
+        {
+          "post_id": "POST_1035",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 11:00:00",
+          "time_spent_seconds": 116,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1123",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-12 10:00:00",
+          "time_spent_seconds": 16
+        },
+        {
+          "post_id": "POST_1040",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-23 05:00:00",
+          "time_spent_seconds": 20
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2035",
+      "join_date": "2023-07-27",
+      "engagement_history": [
+        {
+          "post_id": "POST_1016",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-18 11:00:00",
+          "time_spent_seconds": 172,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1141",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 08:00:00",
+          "time_spent_seconds": 110,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1130",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-21 06:00:00",
+          "time_spent_seconds": 266,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2036",
+      "join_date": "2024-03-01",
+      "engagement_history": [
+        {
+          "post_id": "POST_1117",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-21 13:00:00",
+          "time_spent_seconds": 34,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1034",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-03 20:00:00",
+          "time_spent_seconds": 162,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1132",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-20 02:00:00",
+          "time_spent_seconds": 10
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2037",
+      "join_date": "2023-02-16",
+      "engagement_history": [
+        {
+          "post_id": "POST_1056",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-12 23:00:00",
+          "time_spent_seconds": 37,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1149",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-10-25 05:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1019",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-28 19:00:00",
+          "time_spent_seconds": 15
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2038",
+      "join_date": "2024-04-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1035",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 01:00:00",
+          "time_spent_seconds": 46,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1108",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-26 18:00:00",
+          "time_spent_seconds": 183,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1096",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-20 11:00:00",
+          "time_spent_seconds": 206,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1098",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-10 23:00:00",
+          "time_spent_seconds": 119,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2039",
+      "join_date": "2024-03-10",
+      "engagement_history": [
+        {
+          "post_id": "POST_1077",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-29 15:00:00",
+          "time_spent_seconds": 131,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1119",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-28 10:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1140",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-21 23:00:00",
+          "time_spent_seconds": 62,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2040",
+      "join_date": "2023-02-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1108",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-27 00:00:00",
+          "time_spent_seconds": 27,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1005",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-04 15:00:00",
+          "time_spent_seconds": 281,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1062",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-18 09:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1053",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-16 15:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1018",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-19 13:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1026",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-04 16:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1009",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-16 19:00:00",
+          "time_spent_seconds": 271,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-18 20:00:00",
+          "time_spent_seconds": 145,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2041",
+      "join_date": "2024-06-21",
+      "engagement_history": [
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 21:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1110",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-23 10:00:00",
+          "time_spent_seconds": 158,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1143",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-07 11:00:00",
+          "time_spent_seconds": 247,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1127",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-18 20:00:00",
+          "time_spent_seconds": 78,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1013",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-09 12:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1089",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-30 12:00:00",
+          "time_spent_seconds": 276,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1098",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-09 16:00:00",
+          "time_spent_seconds": 135,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2042",
+      "join_date": "2023-07-15",
+      "engagement_history": [
+        {
+          "post_id": "POST_1021",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-15 18:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1116",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-08 05:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1095",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-20 07:00:00",
+          "time_spent_seconds": 111,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-13 01:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1138",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-08 00:00:00",
+          "time_spent_seconds": 65,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2043",
+      "join_date": "2023-10-17",
+      "engagement_history": [
+        {
+          "post_id": "POST_1063",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-10 06:00:00",
+          "time_spent_seconds": 278,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1053",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-16 20:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-23 09:00:00",
+          "time_spent_seconds": 30
+        },
+        {
+          "post_id": "POST_1062",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-19 06:00:00",
+          "time_spent_seconds": 55,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-02 21:00:00",
+          "time_spent_seconds": 109,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1083",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-01 03:00:00",
+          "time_spent_seconds": 3
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2044",
+      "join_date": "2024-03-03",
+      "engagement_history": [
+        {
+          "post_id": "POST_1057",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-27 10:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1038",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-06 15:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1005",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-05 08:00:00",
+          "time_spent_seconds": 286,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1067",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 17:00:00",
+          "time_spent_seconds": 26
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-03 23:00:00",
+          "time_spent_seconds": 256,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1150",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-29 23:00:00",
+          "time_spent_seconds": 185,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1149",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-26 23:00:00",
+          "time_spent_seconds": 284,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2045",
+      "join_date": "2023-03-18",
+      "engagement_history": [
+        {
+          "post_id": "POST_1139",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-05 01:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1016",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-19 17:00:00",
+          "time_spent_seconds": 123,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1135",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-03 01:00:00",
+          "time_spent_seconds": 116,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1009",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-16 00:00:00",
+          "time_spent_seconds": 35,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2046",
+      "join_date": "2023-01-18",
+      "engagement_history": [
+        {
+          "post_id": "POST_1124",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-27 11:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1125",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-27 09:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1005",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-04 12:00:00",
+          "time_spent_seconds": 59,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1002",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-03 16:00:00",
+          "time_spent_seconds": 103,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1137",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-21 23:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-02 06:00:00",
+          "time_spent_seconds": 196,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1106",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-29 13:00:00",
+          "time_spent_seconds": 129,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1004",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-10 20:00:00",
+          "time_spent_seconds": 46,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2047",
+      "join_date": "2023-01-10",
+      "engagement_history": [
+        {
+          "post_id": "POST_1009",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-15 06:00:00",
+          "time_spent_seconds": 260,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-14 13:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1104",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-07 10:00:00",
+          "time_spent_seconds": 3
+        },
+        {
+          "post_id": "POST_1098",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-09 14:00:00",
+          "time_spent_seconds": 295,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1097",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-13 03:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-03 11:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1122",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-31 12:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1015",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-02 02:00:00",
+          "time_spent_seconds": 8
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2048",
+      "join_date": "2024-08-03",
+      "engagement_history": [
+        {
+          "post_id": "POST_1037",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-09 20:00:00",
+          "time_spent_seconds": 281,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-24 00:00:00",
+          "time_spent_seconds": 76,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1020",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-30 09:00:00",
+          "time_spent_seconds": 25
+        },
+        {
+          "post_id": "POST_1077",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-29 04:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1042",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-21 15:00:00",
+          "time_spent_seconds": 43,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1145",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-11 21:00:00",
+          "time_spent_seconds": 20,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1062",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-19 05:00:00",
+          "time_spent_seconds": 17
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2049",
+      "join_date": "2023-07-10",
+      "engagement_history": [
+        {
+          "post_id": "POST_1092",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-08 06:00:00",
+          "time_spent_seconds": 156,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-02 06:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1097",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-14 01:00:00",
+          "time_spent_seconds": 83,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1111",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-06 21:00:00",
+          "time_spent_seconds": 189,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2050",
+      "join_date": "2024-01-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1002",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-03 07:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1079",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-15 12:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-25 12:00:00",
+          "time_spent_seconds": 289,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2051",
+      "join_date": "2023-11-29",
+      "engagement_history": [
+        {
+          "post_id": "POST_1027",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-31 01:00:00",
+          "time_spent_seconds": 154,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1007",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-18 06:00:00",
+          "time_spent_seconds": 291,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1023",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-22 20:00:00",
+          "time_spent_seconds": 199,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1091",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-14 18:00:00",
+          "time_spent_seconds": 159,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-02 10:00:00",
+          "time_spent_seconds": 37,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-13 18:00:00",
+          "time_spent_seconds": 220,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2052",
+      "join_date": "2024-04-13",
+      "engagement_history": [
+        {
+          "post_id": "POST_1020",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-29 09:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1093",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-04 02:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1065",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-17 22:00:00",
+          "time_spent_seconds": 230,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-13 18:00:00",
+          "time_spent_seconds": 74,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1127",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-19 15:00:00",
+          "time_spent_seconds": 24
+        },
+        {
+          "post_id": "POST_1051",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-30 07:00:00",
+          "time_spent_seconds": 165,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2053",
+      "join_date": "2024-01-21",
+      "engagement_history": [
+        {
+          "post_id": "POST_1082",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-06 02:00:00",
+          "time_spent_seconds": 13
+        },
+        {
+          "post_id": "POST_1075",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-25 13:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1126",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-30 20:00:00",
+          "time_spent_seconds": 286,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1148",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-15 22:00:00",
+          "time_spent_seconds": 112,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1063",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-10 21:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1084",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-02 20:00:00",
+          "time_spent_seconds": 260,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2054",
+      "join_date": "2024-05-05",
+      "engagement_history": [
+        {
+          "post_id": "POST_1078",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-04 11:00:00",
+          "time_spent_seconds": 264,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1062",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-19 11:00:00",
+          "time_spent_seconds": 23,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1065",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-10-17 07:00:00",
+          "time_spent_seconds": 26
+        },
+        {
+          "post_id": "POST_1040",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-24 19:00:00",
+          "time_spent_seconds": 186,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1109",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-08 13:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1097",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-13 22:00:00",
+          "time_spent_seconds": 225,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1019",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-28 07:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-19 09:00:00",
+          "time_spent_seconds": 270,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2055",
+      "join_date": "2023-06-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1148",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-14 02:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1057",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-27 19:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-18 08:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1096",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-19 23:00:00",
+          "time_spent_seconds": 164,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1101",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-05 14:00:00",
+          "time_spent_seconds": 271,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1119",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-29 07:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1129",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-20 23:00:00",
+          "time_spent_seconds": 236,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2056",
+      "join_date": "2023-01-24",
+      "engagement_history": [
+        {
+          "post_id": "POST_1077",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-30 18:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1012",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-27 00:00:00",
+          "time_spent_seconds": 129,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1030",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-07 12:00:00",
+          "time_spent_seconds": 86,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2057",
+      "join_date": "2023-01-30",
+      "engagement_history": [
+        {
+          "post_id": "POST_1110",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-24 05:00:00",
+          "time_spent_seconds": 224,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1119",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-29 22:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1060",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-22 18:00:00",
+          "time_spent_seconds": 37,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1104",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-07 11:00:00",
+          "time_spent_seconds": 7
+        },
+        {
+          "post_id": "POST_1048",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-05 21:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1111",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-06 08:00:00",
+          "time_spent_seconds": 139,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-23 10:00:00",
+          "time_spent_seconds": 165,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2058",
+      "join_date": "2023-11-01",
+      "engagement_history": [
+        {
+          "post_id": "POST_1101",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-06 20:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1030",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-06 08:00:00",
+          "time_spent_seconds": 9
+        },
+        {
+          "post_id": "POST_1090",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-04 08:00:00",
+          "time_spent_seconds": 7
+        },
+        {
+          "post_id": "POST_1091",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-15 21:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1118",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-14 03:00:00",
+          "time_spent_seconds": 75,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-12 04:00:00",
+          "time_spent_seconds": 100,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2059",
+      "join_date": "2023-11-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1138",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-07 16:00:00",
+          "time_spent_seconds": 32,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-12 08:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1143",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-07 01:00:00",
+          "time_spent_seconds": 292,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1043",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-12 03:00:00",
+          "time_spent_seconds": 256,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1126",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-30 08:00:00",
+          "time_spent_seconds": 90,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1074",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-26 15:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1036",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-29 18:00:00",
+          "time_spent_seconds": 9
+        },
+        {
+          "post_id": "POST_1048",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-05 11:00:00",
+          "time_spent_seconds": 26
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2060",
+      "join_date": "2023-04-27",
+      "engagement_history": [
+        {
+          "post_id": "POST_1145",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-12 11:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1127",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-19 11:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1141",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-25 23:00:00",
+          "time_spent_seconds": 16
+        },
+        {
+          "post_id": "POST_1131",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-03 04:00:00",
+          "time_spent_seconds": 57,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1029",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-17 20:00:00",
+          "time_spent_seconds": 21,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-03 23:00:00",
+          "time_spent_seconds": 29
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2061",
+      "join_date": "2023-08-03",
+      "engagement_history": [
+        {
+          "post_id": "POST_1113",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-24 22:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1031",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-07 11:00:00",
+          "time_spent_seconds": 76,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1061",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-31 04:00:00",
+          "time_spent_seconds": 296,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2062",
+      "join_date": "2024-06-10",
+      "engagement_history": [
+        {
+          "post_id": "POST_1072",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-10-24 09:00:00",
+          "time_spent_seconds": 26
+        },
+        {
+          "post_id": "POST_1138",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-06 04:00:00",
+          "time_spent_seconds": 146,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1044",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-21 21:00:00",
+          "time_spent_seconds": 72,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1083",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-01 22:00:00",
+          "time_spent_seconds": 169,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1075",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-25 08:00:00",
+          "time_spent_seconds": 77,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-04 17:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1069",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-27 05:00:00",
+          "time_spent_seconds": 43,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2063",
+      "join_date": "2024-01-13",
+      "engagement_history": [
+        {
+          "post_id": "POST_1104",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-07 08:00:00",
+          "time_spent_seconds": 172,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1132",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-20 23:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1072",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-25 17:00:00",
+          "time_spent_seconds": 188,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2064",
+      "join_date": "2023-10-18",
+      "engagement_history": [
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-23 12:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1056",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-13 13:00:00",
+          "time_spent_seconds": 253,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1110",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-23 03:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1055",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-21 02:00:00",
+          "time_spent_seconds": 68,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1127",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-19 06:00:00",
+          "time_spent_seconds": 5,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1069",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-27 21:00:00",
+          "time_spent_seconds": 72,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1083",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-31 11:00:00",
+          "time_spent_seconds": 29
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2065",
+      "join_date": "2023-06-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-14 02:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1093",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-04 23:00:00",
+          "time_spent_seconds": 24
+        },
+        {
+          "post_id": "POST_1065",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-18 04:00:00",
+          "time_spent_seconds": 51,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1022",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-05 01:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1096",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-19 05:00:00",
+          "time_spent_seconds": 72,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2066",
+      "join_date": "2023-05-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1133",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-31 21:00:00",
+          "time_spent_seconds": 72,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-24 15:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1003",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-16 23:00:00",
+          "time_spent_seconds": 27
+        },
+        {
+          "post_id": "POST_1088",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-14 07:00:00",
+          "time_spent_seconds": 12
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2067",
+      "join_date": "2023-03-12",
+      "engagement_history": [
+        {
+          "post_id": "POST_1077",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-30 16:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1036",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-30 05:00:00",
+          "time_spent_seconds": 184,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1098",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-10 17:00:00",
+          "time_spent_seconds": 82,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1035",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-23 14:00:00",
+          "time_spent_seconds": 49,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1037",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-08 08:00:00",
+          "time_spent_seconds": 201,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2068",
+      "join_date": "2023-10-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1081",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-20 19:00:00",
+          "time_spent_seconds": 30
+        },
+        {
+          "post_id": "POST_1036",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-29 14:00:00",
+          "time_spent_seconds": 18
+        },
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-14 00:00:00",
+          "time_spent_seconds": 205,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1071",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-12 16:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1022",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-05 08:00:00",
+          "time_spent_seconds": 128,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1142",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-03 10:00:00",
+          "time_spent_seconds": 30
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2069",
+      "join_date": "2024-02-01",
+      "engagement_history": [
+        {
+          "post_id": "POST_1093",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-04 00:00:00",
+          "time_spent_seconds": 284,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1082",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-06 07:00:00",
+          "time_spent_seconds": 42,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1034",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-02 01:00:00",
+          "time_spent_seconds": 10
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2070",
+      "join_date": "2023-10-21",
+      "engagement_history": [
+        {
+          "post_id": "POST_1011",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-28 04:00:00",
+          "time_spent_seconds": 210,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1016",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-18 18:00:00",
+          "time_spent_seconds": 47,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-23 09:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1130",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-22 11:00:00",
+          "time_spent_seconds": 172,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2071",
+      "join_date": "2024-03-20",
+      "engagement_history": [
+        {
+          "post_id": "POST_1017",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-27 06:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1080",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-17 20:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1112",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-30 08:00:00",
+          "time_spent_seconds": 11,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1062",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-19 21:00:00",
+          "time_spent_seconds": 10,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1015",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-02 23:00:00",
+          "time_spent_seconds": 272,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1063",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-09 11:00:00",
+          "time_spent_seconds": 13
+        },
+        {
+          "post_id": "POST_1023",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-23 00:00:00",
+          "time_spent_seconds": 142,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2072",
+      "join_date": "2023-10-06",
+      "engagement_history": [
+        {
+          "post_id": "POST_1008",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-10 17:00:00",
+          "time_spent_seconds": 24
+        },
+        {
+          "post_id": "POST_1086",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-10-21 08:00:00",
+          "time_spent_seconds": 16
+        },
+        {
+          "post_id": "POST_1110",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-23 04:00:00",
+          "time_spent_seconds": 17
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2073",
+      "join_date": "2023-08-22",
+      "engagement_history": [
+        {
+          "post_id": "POST_1043",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-10-11 03:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1095",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-19 16:00:00",
+          "time_spent_seconds": 3
+        },
+        {
+          "post_id": "POST_1041",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-15 00:00:00",
+          "time_spent_seconds": 201,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1066",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-18 03:00:00",
+          "time_spent_seconds": 288,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1027",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-31 15:00:00",
+          "time_spent_seconds": 169,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-04 23:00:00",
+          "time_spent_seconds": 168,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1030",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-07 13:00:00",
+          "time_spent_seconds": 13
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2074",
+      "join_date": "2023-08-17",
+      "engagement_history": [
+        {
+          "post_id": "POST_1129",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-20 02:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1014",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-19 19:00:00",
+          "time_spent_seconds": 164,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1046",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-08 12:00:00",
+          "time_spent_seconds": 16
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2075",
+      "join_date": "2024-07-31",
+      "engagement_history": [
+        {
+          "post_id": "POST_1095",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-21 00:00:00",
+          "time_spent_seconds": 21
+        },
+        {
+          "post_id": "POST_1052",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-03 06:00:00",
+          "time_spent_seconds": 193,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1075",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 13:00:00",
+          "time_spent_seconds": 284,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2076",
+      "join_date": "2024-07-08",
+      "engagement_history": [
+        {
+          "post_id": "POST_1002",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-04 17:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1105",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-01 22:00:00",
+          "time_spent_seconds": 2
+        },
+        {
+          "post_id": "POST_1007",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-20 00:00:00",
+          "time_spent_seconds": 162,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1060",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-23 10:00:00",
+          "time_spent_seconds": 126,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2077",
+      "join_date": "2024-06-16",
+      "engagement_history": [
+        {
+          "post_id": "POST_1016",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-19 21:00:00",
+          "time_spent_seconds": 195,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1037",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-09 14:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1072",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-25 17:00:00",
+          "time_spent_seconds": 206,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-14 04:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1012",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-25 16:00:00",
+          "time_spent_seconds": 154,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1060",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-23 02:00:00",
+          "time_spent_seconds": 24
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2078",
+      "join_date": "2024-08-21",
+      "engagement_history": [
+        {
+          "post_id": "POST_1084",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-01 10:00:00",
+          "time_spent_seconds": 5
+        },
+        {
+          "post_id": "POST_1082",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-06 05:00:00",
+          "time_spent_seconds": 243,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1116",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-08 08:00:00",
+          "time_spent_seconds": 279,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1070",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-25 05:00:00",
+          "time_spent_seconds": 162,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1060",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-22 08:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1020",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-30 20:00:00",
+          "time_spent_seconds": 160,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1052",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-02 14:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1035",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-23 10:00:00",
+          "time_spent_seconds": 4
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2079",
+      "join_date": "2023-02-01",
+      "engagement_history": [
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-13 05:00:00",
+          "time_spent_seconds": 289,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1092",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-08 07:00:00",
+          "time_spent_seconds": 241,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1102",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-22 08:00:00",
+          "time_spent_seconds": 11,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1132",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-19 09:00:00",
+          "time_spent_seconds": 106,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1013",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-09 20:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1077",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-30 14:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1067",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 05:00:00",
+          "time_spent_seconds": 2
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-11 13:00:00",
+          "time_spent_seconds": 30
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2080",
+      "join_date": "2023-06-22",
+      "engagement_history": [
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-25 23:00:00",
+          "time_spent_seconds": 207,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1033",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-30 01:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1024",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-13 12:00:00",
+          "time_spent_seconds": 186,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1085",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-08 18:00:00",
+          "time_spent_seconds": 148,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1032",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-12 03:00:00",
+          "time_spent_seconds": 130,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1011",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-28 08:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1119",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-28 04:00:00",
+          "time_spent_seconds": 49,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1013",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-08 09:00:00",
+          "time_spent_seconds": 219,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2081",
+      "join_date": "2023-12-19",
+      "engagement_history": [
+        {
+          "post_id": "POST_1135",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-04 01:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-12 02:00:00",
+          "time_spent_seconds": 168,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1140",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-20 02:00:00",
+          "time_spent_seconds": 148,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1005",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-05 10:00:00",
+          "time_spent_seconds": 188,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1098",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-09 11:00:00",
+          "time_spent_seconds": 56,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1092",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-08 18:00:00",
+          "time_spent_seconds": 278,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1123",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-11 15:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1125",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-26 23:00:00",
+          "time_spent_seconds": 93,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2082",
+      "join_date": "2024-08-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1082",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-06 13:00:00",
+          "time_spent_seconds": 101,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1092",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-08 12:00:00",
+          "time_spent_seconds": 17
+        },
+        {
+          "post_id": "POST_1008",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-10 06:00:00",
+          "time_spent_seconds": 3
+        },
+        {
+          "post_id": "POST_1091",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-15 15:00:00",
+          "time_spent_seconds": 117,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2083",
+      "join_date": "2023-11-28",
+      "engagement_history": [
+        {
+          "post_id": "POST_1123",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-11 02:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1001",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-16 08:00:00",
+          "time_spent_seconds": 274,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1085",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-09 00:00:00",
+          "time_spent_seconds": 24
+        },
+        {
+          "post_id": "POST_1052",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-03 14:00:00",
+          "time_spent_seconds": 56,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1034",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-02 21:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1088",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-15 23:00:00",
+          "time_spent_seconds": 228,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1046",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-08 18:00:00",
+          "time_spent_seconds": 167,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2084",
+      "join_date": "2023-07-01",
+      "engagement_history": [
+        {
+          "post_id": "POST_1144",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-26 21:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1092",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-09 13:00:00",
+          "time_spent_seconds": 21,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1058",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-11 16:00:00",
+          "time_spent_seconds": 9
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-12 08:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1097",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-15 00:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1079",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-15 23:00:00",
+          "time_spent_seconds": 168,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1076",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-06 22:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1033",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-30 05:00:00",
+          "time_spent_seconds": 2
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2085",
+      "join_date": "2023-04-21",
+      "engagement_history": [
+        {
+          "post_id": "POST_1054",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-26 04:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-13 23:00:00",
+          "time_spent_seconds": 219,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1018",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-19 08:00:00",
+          "time_spent_seconds": 198,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1090",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-04 07:00:00",
+          "time_spent_seconds": 250,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1066",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-18 11:00:00",
+          "time_spent_seconds": 236,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2086",
+      "join_date": "2023-09-25",
+      "engagement_history": [
+        {
+          "post_id": "POST_1076",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-05 05:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1006",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-16 01:00:00",
+          "time_spent_seconds": 87,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1082",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-06 12:00:00",
+          "time_spent_seconds": 30
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2087",
+      "join_date": "2024-03-17",
+      "engagement_history": [
+        {
+          "post_id": "POST_1087",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-18 15:00:00",
+          "time_spent_seconds": 227,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1124",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-11-26 07:00:00",
+          "time_spent_seconds": 12
+        },
+        {
+          "post_id": "POST_1008",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-10 13:00:00",
+          "time_spent_seconds": 214,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2088",
+      "join_date": "2024-02-07",
+      "engagement_history": [
+        {
+          "post_id": "POST_1139",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-05 10:00:00",
+          "time_spent_seconds": 32,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1068",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-11-18 04:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1073",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-20 19:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1077",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-29 13:00:00",
+          "time_spent_seconds": 54,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1061",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-31 11:00:00",
+          "time_spent_seconds": 154,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1025",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-04 08:00:00",
+          "time_spent_seconds": 162,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1013",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-09 08:00:00",
+          "time_spent_seconds": 140,
+          "sentiment": "positive"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2089",
+      "join_date": "2024-03-26",
+      "engagement_history": [
+        {
+          "post_id": "POST_1140",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-20 17:00:00",
+          "time_spent_seconds": 120,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1100",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-01 10:00:00",
+          "time_spent_seconds": 26
+        },
+        {
+          "post_id": "POST_1048",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-05 06:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1095",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-20 11:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1098",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-10 12:00:00",
+          "time_spent_seconds": 36,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-19 11:00:00",
+          "time_spent_seconds": 248,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1012",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-26 07:00:00",
+          "time_spent_seconds": 158,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1068",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-18 22:00:00",
+          "time_spent_seconds": 22,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2090",
+      "join_date": "2023-08-05",
+      "engagement_history": [
+        {
+          "post_id": "POST_1133",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-30 09:00:00",
+          "time_spent_seconds": 26,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-04 20:00:00",
+          "time_spent_seconds": 15
+        },
+        {
+          "post_id": "POST_1038",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-07 17:00:00",
+          "time_spent_seconds": 80,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1031",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-07 21:00:00",
+          "time_spent_seconds": 25
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-18 06:00:00",
+          "time_spent_seconds": 14
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-12 12:00:00",
+          "time_spent_seconds": 171,
+          "sentiment": "neutral"
+        },
+        {
+          "post_id": "POST_1043",
+          "platform": "LinkedIn",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-11 01:00:00",
+          "time_spent_seconds": 272,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 7,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2091",
+      "join_date": "2024-08-03",
+      "engagement_history": [
+        {
+          "post_id": "POST_1107",
+          "platform": "Facebook",
+          "engagement_type": "like",
+          "timestamp": "2024-10-22 07:00:00",
+          "time_spent_seconds": 20
+        },
+        {
+          "post_id": "POST_1039",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-05 19:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1038",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-07 03:00:00",
+          "time_spent_seconds": 10
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2092",
+      "join_date": "2024-02-17",
+      "engagement_history": [
+        {
+          "post_id": "POST_1125",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-27 16:00:00",
+          "time_spent_seconds": 210,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1147",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-03 22:00:00",
+          "time_spent_seconds": 126,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1122",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-31 18:00:00",
+          "time_spent_seconds": 195,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1010",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-26 20:00:00",
+          "time_spent_seconds": 11
+        },
+        {
+          "post_id": "POST_1045",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 08:00:00",
+          "time_spent_seconds": 29
+        },
+        {
+          "post_id": "POST_1071",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-11-12 15:00:00",
+          "time_spent_seconds": 6
+        }
+      ],
+      "total_engagements": 6,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2093",
+      "join_date": "2023-07-12",
+      "engagement_history": [
+        {
+          "post_id": "POST_1114",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-24 14:00:00",
+          "time_spent_seconds": 213,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1083",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-01 10:00:00",
+          "time_spent_seconds": 196,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1069",
+          "platform": "Twitter",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-26 05:00:00",
+          "time_spent_seconds": 164,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1107",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-22 09:00:00",
+          "time_spent_seconds": 273,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1023",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-21 12:00:00",
+          "time_spent_seconds": 8
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2094",
+      "join_date": "2023-02-21",
+      "engagement_history": [
+        {
+          "post_id": "POST_1015",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-03 22:00:00",
+          "time_spent_seconds": 8
+        },
+        {
+          "post_id": "POST_1064",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-13 00:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1009",
+          "platform": "Instagram",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-16 09:00:00",
+          "time_spent_seconds": 208,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1117",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-21 20:00:00",
+          "time_spent_seconds": 2
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Instagram"
+    },
+    {
+      "user_id": "USER_2095",
+      "join_date": "2024-04-30",
+      "engagement_history": [
+        {
+          "post_id": "POST_1096",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-19 23:00:00",
+          "time_spent_seconds": 7
+        },
+        {
+          "post_id": "POST_1126",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-31 00:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1115",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-18 19:00:00",
+          "time_spent_seconds": 2
+        },
+        {
+          "post_id": "POST_1046",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-07 04:00:00",
+          "time_spent_seconds": 88,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2096",
+      "join_date": "2024-02-24",
+      "engagement_history": [
+        {
+          "post_id": "POST_1057",
+          "platform": "LinkedIn",
+          "engagement_type": "like",
+          "timestamp": "2024-11-28 20:00:00",
+          "time_spent_seconds": 2
+        },
+        {
+          "post_id": "POST_1058",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-10 09:00:00",
+          "time_spent_seconds": 93,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1053",
+          "platform": "Instagram",
+          "engagement_type": "like",
+          "timestamp": "2024-10-16 15:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1069",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-27 22:00:00",
+          "time_spent_seconds": 24
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "Twitter"
+    },
+    {
+      "user_id": "USER_2097",
+      "join_date": "2023-11-06",
+      "engagement_history": [
+        {
+          "post_id": "POST_1071",
+          "platform": "Twitter",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-13 14:00:00",
+          "time_spent_seconds": 57,
+          "sentiment": "positive"
+        },
+        {
+          "post_id": "POST_1109",
+          "platform": "Instagram",
+          "engagement_type": "share",
+          "timestamp": "2024-10-08 12:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1097",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-13 20:00:00",
+          "time_spent_seconds": 23
+        },
+        {
+          "post_id": "POST_1090",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-05 07:00:00",
+          "time_spent_seconds": 4
+        },
+        {
+          "post_id": "POST_1118",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-10-13 18:00:00",
+          "time_spent_seconds": 22
+        },
+        {
+          "post_id": "POST_1065",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-17 18:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1056",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-11-12 13:00:00",
+          "time_spent_seconds": 6
+        },
+        {
+          "post_id": "POST_1120",
+          "platform": "LinkedIn",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-18 04:00:00",
+          "time_spent_seconds": 211,
+          "sentiment": "negative"
+        }
+      ],
+      "total_engagements": 8,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2098",
+      "join_date": "2024-03-04",
+      "engagement_history": [
+        {
+          "post_id": "POST_1036",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-11-30 01:00:00",
+          "time_spent_seconds": 23,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1007",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-10-18 22:00:00",
+          "time_spent_seconds": 118,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1128",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-17 19:00:00",
+          "time_spent_seconds": 188,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1076",
+          "platform": "Twitter",
+          "engagement_type": "share",
+          "timestamp": "2024-11-05 11:00:00",
+          "time_spent_seconds": 28
+        },
+        {
+          "post_id": "POST_1067",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-12 19:00:00",
+          "time_spent_seconds": 54,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 5,
+      "favorite_platform": "Facebook"
+    },
+    {
+      "user_id": "USER_2099",
+      "join_date": "2023-04-02",
+      "engagement_history": [
+        {
+          "post_id": "POST_1067",
+          "platform": "Instagram",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-12 23:00:00",
+          "time_spent_seconds": 119,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1144",
+          "platform": "Facebook",
+          "engagement_type": "share",
+          "timestamp": "2024-10-26 03:00:00",
+          "time_spent_seconds": 27
+        },
+        {
+          "post_id": "POST_1047",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-09 00:00:00",
+          "time_spent_seconds": 10
+        },
+        {
+          "post_id": "POST_1086",
+          "platform": "LinkedIn",
+          "engagement_type": "share",
+          "timestamp": "2024-10-21 06:00:00",
+          "time_spent_seconds": 29
+        }
+      ],
+      "total_engagements": 4,
+      "favorite_platform": "LinkedIn"
+    },
+    {
+      "user_id": "USER_2100",
+      "join_date": "2024-08-17",
+      "engagement_history": [
+        {
+          "post_id": "POST_1121",
+          "platform": "Twitter",
+          "engagement_type": "like",
+          "timestamp": "2024-10-31 07:00:00",
+          "time_spent_seconds": 30
+        },
+        {
+          "post_id": "POST_1014",
+          "platform": "Facebook",
+          "engagement_type": "comment",
+          "timestamp": "2024-11-20 09:00:00",
+          "time_spent_seconds": 66,
+          "sentiment": "negative"
+        },
+        {
+          "post_id": "POST_1150",
+          "platform": "Facebook",
+          "engagement_type": "like_comment",
+          "timestamp": "2024-10-29 10:00:00",
+          "time_spent_seconds": 157,
+          "sentiment": "neutral"
+        }
+      ],
+      "total_engagements": 3,
+      "favorite_platform": "Facebook"
+    }
+  ]
+}

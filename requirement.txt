@@ -1,0 +1,17 @@
+# Core data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Data visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Data parsing
+lxml==4.9.3
+
+# Jupyter notebook
+jupyter==1.0.0
+notebook==7.0.6
+
+# Optional but useful
+openpyxl==3.1.2

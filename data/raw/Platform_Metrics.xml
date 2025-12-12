@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<social_media_metrics generated_date="2024-12-11" reporting_period="60_days">
+  <platform name="Facebook">
+    <statistics>
+      <total_posts>41</total_posts>
+      <total_followers>8543</total_followers>
+      <avg_engagement_rate>7.73</avg_engagement_rate>
+      <total_impressions>258102</total_impressions>
+    </statistics>
+    <performance>
+      <best_posting_time>12:00</best_posting_time>
+      <avg_reach>4281</avg_reach>
+      <conversion_rate>2.37</conversion_rate>
+    </performance>
+    <demographics>
+      <primary_age_group>45-54</primary_age_group>
+      <gender_split>44% Male, 50% Female</gender_split>
+      <top_location>India</top_location>
+    </demographics>
+    <weekly_metrics>
+      <week number="1">
+        <posts>4</posts>
+        <engagement>4494</engagement>
+        <reach>12899</reach>
+      </week>
+      <week number="2">
+        <posts>5</posts>
+        <engagement>3067</engagement>
+        <reach>3900</reach>
+      </week>
+      <week number="3">
+        <posts>3</posts>
+        <engagement>4203</engagement>
+        <reach>10962</reach>
+      </week>
+      <week number="4">
+        <posts>6</posts>
+        <engagement>1881</engagement>
+        <reach>7191</reach>
+      </week>
+      <week number="5">
+        <posts>10</posts>
+        <engagement>1221</engagement>
+        <reach>6240</reach>
+      </week>
+      <week number="6">
+        <posts>12</posts>
+        <engagement>4052</engagement>
+        <reach>16070</reach>
+      </week>
+      <week number="7">
+        <posts>9</posts>
+        <engagement>4014</engagement>
+        <reach>17643</reach>
+      </week>
+      <week number="8">
+        <posts>9</posts>
+        <engagement>538</engagement>
+        <reach>3236</reach>
+      </week>
+    </weekly_metrics>
+  </platform>
+  <platform name="Instagram">
+    <statistics>
+      <total_posts>37</total_posts>
+      <total_followers>39981</total_followers>
+      <avg_engagement_rate>3.7</avg_engagement_rate>
+      <total_impressions>491225</total_impressions>
+    </statistics>
+    <performance>
+      <best_posting_time>09:00</best_posting_time>
+      <avg_reach>6279</avg_reach>
+      <conversion_rate>4.03</conversion_rate>
+    </performance>
+    <demographics>
+      <primary_age_group>25-34</primary_age_group>
+      <gender_split>40% Male, 40% Female</gender_split>
+      <top_location>India</top_location>
+    </demographics>
+    <weekly_metrics>
+      <week number="1">
+        <posts>6</posts>
+        <engagement>3320</engagement>
+        <reach>12226</reach>
+      </week>
+      <week number="2">
+        <posts>5</posts>
+        <engagement>1341</engagement>
+        <reach>14568</reach>
+      </week>
+      <week number="3">
+        <posts>11</posts>
+        <engagement>3007</engagement>
+        <reach>7472</reach>
+      </week>
+      <week number="4">
+        <posts>4</posts>
+        <engagement>874</engagement>
+        <reach>11771</reach>
+      </week>
+      <week number="5">
+        <posts>7</posts>
+        <engagement>4234</engagement>
+        <reach>19048</reach>
+      </week>
+      <week number="6">
+        <posts>12</posts>
+        <engagement>4793</engagement>
+        <reach>13070</reach>
+      </week>
+      <week number="7">
+        <posts>9</posts>
+        <engagement>1596</engagement>
+        <reach>13230</reach>
+      </week>
+      <week number="8">
+        <posts>10</posts>
+        <engagement>3442</engagement>
+        <reach>8174</reach>
+      </week>
+    </weekly_metrics>
+  </platform>
+  <platform name="Twitter">
+    <statistics>
+      <total_posts>41</total_posts>
+      <total_followers>15805</total_followers>
+      <avg_engagement_rate>8.19</avg_engagement_rate>
+      <total_impressions>951452</total_impressions>
+    </statistics>
+    <performance>
+      <best_posting_time>18:00</best_posting_time>
+      <avg_reach>1313</avg_reach>
+      <conversion_rate>1.91</conversion_rate>
+    </performance>
+    <demographics>
+      <primary_age_group>25-34</primary_age_group>
+      <gender_split>46% Male, 40% Female</gender_split>
+      <top_location>India</top_location>
+    </demographics>
+    <weekly_metrics>
+      <week number="1">
+        <posts>4</posts>
+        <engagement>3503</engagement>
+        <reach>3224</reach>
+      </week>
+      <week number="2">
+        <posts>9</posts>
+        <engagement>2595</engagement>
+        <reach>19522</reach>
+      </week>
+      <week number="3">
+        <posts>12</posts>
+        <engagement>898</engagement>
+        <reach>3571</reach>
+      </week>
+      <week number="4">
+        <posts>4</posts>
+        <engagement>661</engagement>
+        <reach>3580</reach>
+      </week>
+      <week number="5">
+        <posts>4</posts>
+        <engagement>3914</engagement>
+        <reach>16559</reach>
+      </week>
+      <week number="6">
+        <posts>9</posts>
+        <engagement>1512</engagement>
+        <reach>19933</reach>
+      </week>
+      <week number="7">
+        <posts>7</posts>
+        <engagement>4386</engagement>
+        <reach>7017</reach>
+      </week>
+      <week number="8">
+        <posts>6</posts>
+        <engagement>576</engagement>
+        <reach>11866</reach>
+      </week>
+    </weekly_metrics>
+  </platform>
+  <platform name="LinkedIn">
+    <statistics>
+      <total_posts>31</total_posts>
+      <total_followers>32582</total_followers>
+      <avg_engagement_rate>6.47</avg_engagement_rate>
+      <total_impressions>794663</total_impressions>
+    </statistics>
+    <performance>
+      <best_posting_time>21:00</best_posting_time>
+      <avg_reach>5423</avg_reach>
+      <conversion_rate>3.49</conversion_rate>
+    </performance>
+    <demographics>
+      <primary_age_group>25-34</primary_age_group>
+      <gender_split>53% Male, 43% Female</gender_split>
+      <top_location>United States</top_location>
+    </demographics>
+    <weekly_metrics>
+      <week number="1">
+        <posts>7</posts>
+        <engagement>1433</engagement>
+        <reach>5482</reach>
+      </week>
+      <week number="2">
+        <posts>10</posts>
+        <engagement>2127</engagement>
+        <reach>8545</reach>
+      </week>
+      <week number="3">
+        <posts>7</posts>
+        <engagement>4785</engagement>
+        <reach>8608</reach>
+      </week>
+      <week number="4">
+        <posts>8</posts>
+        <engagement>3856</engagement>
+        <reach>11678</reach>
+      </week>
+      <week number="5">
+        <posts>5</posts>
+        <engagement>822</engagement>
+        <reach>19961</reach>
+      </week>
+      <week number="6">
+        <posts>10</posts>
+        <engagement>2201</engagement>
+        <reach>17750</reach>
+      </week>
+      <week number="7">
+        <posts>8</posts>
+        <engagement>2421</engagement>
+        <reach>2089</reach>
+      </week>
+      <week number="8">
+        <posts>3</posts>
+        <engagement>1229</engagement>
+        <reach>5618</reach>
+      </week>
+    </weekly_metrics>
+  </platform>
+</social_media_metrics>
